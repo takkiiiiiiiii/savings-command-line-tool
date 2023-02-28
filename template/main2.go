@@ -39,7 +39,3 @@ var consumptionAll = &ConsumptionAll{
 func addConsumption(consumptionAll ConsumptionAll) {
 
 }
-
-func main() {
-
-}
